@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://brunocunha:bru189362@cluster0.quhxn.mongodb.net/
+      database: relacionamentos
